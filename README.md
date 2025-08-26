@@ -14,16 +14,16 @@ This repo is a living journal of my hands-on journey, showcasing progress from *
 ```
 studyboard/
 │
-├── assignments/		  # Python assignment notebooks
+├── assignments/        # Python assignment notebooks
 │   ├── assignment-number.ipynb
 │
-├── python-basics/		# Core Python practice notebooks
+├── python-basics/      # Core Python practice notebooks
 │   ├── YYYY-MM-DD_topic.ipynb
 │
-├── notes/			      # Markdown notes, tips, and cheatsheets
+├── notes/              # Markdown notes, tips, and cheatsheets
 │   ├── topic_notes.md
 │
-└── README.md			    # This file
+└── README.md           # This file
 ```
 
 📌 **Naming Convention:**
