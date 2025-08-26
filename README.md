@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)
 
-Welcome to **StudyBoard** — my personal, public learning repository documenting my **daily practice** in Python programming, Data Science, and beyond.  
+Welcome to **StudyBoard** — my personal, public learning repository documenting my **daily practice** in Python programming, Data Science, and beyond.
 This repo is a living journal of my hands-on journey, showcasing progress from **Python fundamentals** to **Data Science, Machine Learning, and advanced analytics**.
 
 ---
@@ -13,6 +13,9 @@ This repo is a living journal of my hands-on journey, showcasing progress from *
 
 ```
 studyboard/
+│
+├── assignments/	    # Python assignment notebooks
+│   ├── assignment-number.ipynb
 │
 ├── python-basics/          # Core Python practice notebooks
 │   ├── YYYY-MM-DD_topic.ipynb
@@ -23,12 +26,15 @@ studyboard/
 └── README.md               # This file
 ```
 
-📌 **Naming Convention:**  
+📌 **Naming Convention:**
 All notebooks are saved as:
+
 ```
 YYYY-MM-DD_topic_name.ipynb
 ```
+
 Example:
+
 ```
 2025-08-14_python_loops.ipynb
 2025-09-02_numpy_basics.ipynb
@@ -64,7 +70,7 @@ Example:
 
 ## 📜 License
 
-This repository is licensed under the **MIT License**.  
+This repository is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for details.
 
 ```
@@ -78,19 +84,22 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ---
 
 ## 🤝 Acknowledgements
-Thank you for exploring StudyBoard.  
+
+Thank you for exploring StudyBoard.
 We hope this repository inspires and supports your learning journey.
 
 ---
 
 ## 📬 Contact
-For collaboration, discussions, or feedback, feel free to reach out:  
+
+For collaboration, discussions, or feedback, feel free to reach out:
 📧 **koustubhpk@gmail.com**
 
 ---
 
-> Built with ❤️ by **KoustubhPK**  
+> Built with ❤️ by **KoustubhPK**
 > 🌐 [https://koustubhpk.pythonanywhere.com/](https://koustubhpk.pythonanywhere.com/)
 
 ---
+
 🚀 *"Learning is a lifelong journey — this is my map."*
