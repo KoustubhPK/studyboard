@@ -18,6 +18,10 @@ studyboard/
 │   ├── assignment-number.ipynb
 │
 ├── python-basics/      # Core Python practice notebooks
+│   ├── package-practice/
+│   │   ├── packages/
+│   │   │   ├── package_name_utils.py
+│   │   ├── main.ipynb
 │   ├── YYYY-MM-DD_topic.ipynb
 │
 ├── notes/              # Markdown notes, tips, and cheatsheets
