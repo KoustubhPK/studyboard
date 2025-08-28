@@ -1,0 +1,2 @@
+no need to close the file explicitely if we use with statement.
+file handing does smoothly by with open.
