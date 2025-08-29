@@ -14,20 +14,27 @@ This repo is a living journal of my hands-on journey, showcasing progress from *
 ```
 studyboard/
 │
-├── assignments/        # Python assignment notebooks
-│   ├── assignment-number.ipynb
+├── python-basics/          # Core Python
+│   ├── assignments/        # Python assignment notebooks
+│   │   ├── assignment-number.ipynb
+│   │
+│   │── exercises/          # Python practice notebooks
+│   │   ├── package-practice/
+│   │   │   ├── packages/
+│   │   │   │   ├── package_name_utils.py
+│   │   │   ├── main.ipynb
+│   │   │
+│   │   ├── file-handling/
+│   │   │   ├── data/       # All data files & folders
+│   │   │   │   ├── data_files.{txt, csv, xlsx}
+│   │   │   ├── YYYY-MM-DD_file_handling_topic.ipynb
+│   │   │
+│   │   ├── YYYY-MM-DD_topic.ipynb
 │
-├── python-basics/      # Core Python practice notebooks
-│   ├── package-practice/
-│   │   ├── packages/
-│   │   │   ├── package_name_utils.py
-│   │   ├── main.ipynb
-│   ├── YYYY-MM-DD_topic.ipynb
-│
-├── notes/              # Markdown notes, tips, and cheatsheets
+├── notes/                  # Markdown notes, tips, and cheatsheets
 │   ├── topic_notes.md
 │
-└── README.md           # This file
+└── README.md               # This file
 ```
 
 📌 **Naming Convention:**
