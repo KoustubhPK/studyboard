@@ -25,6 +25,9 @@ db.sqlite3
 # System files
 .DS_Store
 
+# config file
+config.py
+
 # Docs
 *.doc/
 *.docx
