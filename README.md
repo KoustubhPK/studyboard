@@ -1,8 +1,15 @@
 # 📚 StudyBoard – Daily Python & Data Science Practice
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)
+![Python](https://img.shields.io/badge/Python-3.11.0-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?logo=visual-studio-code&logoColor=white)
 
 Welcome to **StudyBoard** — my personal, public learning repository documenting my **daily practice** in Python programming, Data Science, and beyond.
 This repo is a living journal of my hands-on journey, showcasing progress from **Python fundamentals** to **Data Science, Machine Learning, and advanced analytics**.
@@ -14,20 +21,22 @@ This repo is a living journal of my hands-on journey, showcasing progress from *
 ```
 studyboard/
 │
+├── numpy/                  # NumPy in Python
+│   ├── assignments/        # NumPy assignments
+│   │   ├── assignment-number.ipynb
+│   │
+│   │── exercises/          # NumPy practice notebooks
+│   │   ├── YYYY-MM-DD_topic.ipynb
+|
 ├── python-basics/          # Core Python
-│   ├── assignments/        # Python assignment notebooks
+│   ├── assignments/        # Python assignments
 │   │   ├── assignment-number.ipynb
 │   │
 │   │── exercises/          # Python practice notebooks
 │   │   ├── package-practice/
-│   │   │   ├── packages/
-│   │   │   │   ├── package_name_utils.py
-│   │   │   ├── main.ipynb
-│   │   │
-│   │   ├── file-handling/
-│   │   │   ├── data/       # All data files & folders
-│   │   │   │   ├── data_files.{txt, csv, xlsx}
-│   │   │   ├── YYYY-MM-DD_file_handling_topic.ipynb
+│   │   ├── file_handling/
+│   │   ├── web_scrapping/
+│   │   ├── oop/
 │   │   │
 │   │   ├── YYYY-MM-DD_topic.ipynb
 │
@@ -44,7 +53,7 @@ All notebooks are saved as:
 YYYY-MM-DD_topic_name.ipynb
 ```
 
-Example:
+**Example:**
 
 ```
 2025-08-14_python_loops.ipynb
@@ -75,7 +84,8 @@ Example:
 
 ## 📈 Learning Timeline
 
-- **Phase 1:** Python Basics & Problem Solving *(Current Phase)*
+- **Phase 1:** Python Basics & Problem Solving
+- **Phase 2:** NumPy & Pandas *(Current Phase)*
 
 ---
 
