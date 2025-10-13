@@ -28,6 +28,13 @@ studyboard/
 │   │── exercises/          # NumPy practice notebooks
 │   │   ├── YYYY-MM-DD_topic.ipynb
 |
+├── pandas/                 # Pandas in Python
+│   ├── assignments/        # Pandas assignments
+│   │   ├── assignment-number.ipynb
+│   │
+│   │── exercises/          # Pandas practice notebooks
+│   │   ├── YYYY-MM-DD_topic.ipynb
+|
 ├── python-basics/          # Core Python
 │   ├── assignments/        # Python assignments
 │   │   ├── assignment-number.ipynb
